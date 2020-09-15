@@ -1,6 +1,9 @@
 # I'm Dreamy Jy and I'm back at again
 
-***🚧🏗Profile Readme Under Construction🏗🚧***
+## Noteworthy Projects
+
+## Things I've Learned
+
 <!--
 **Dreamy-Jy/Dreamy-Jy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
