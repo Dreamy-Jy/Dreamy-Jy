@@ -4,6 +4,13 @@
 
 ## Things I've Learned
 
+## Skill Specifics
+iOS - SwiftUI, Networking, Data Persistance
+React Native
+
+Embedded Systems - Familar concepts: 
+
+Data Science - my data science skill primarily involve doing exploritory data science with python.
 <!--
 **Dreamy-Jy/Dreamy-Jy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
