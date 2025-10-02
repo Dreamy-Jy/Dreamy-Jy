@@ -1,6 +1,7 @@
-# I'm Dreamy Jy and I'm back at again
+# I'm back at again
 
-***🚧🏗Profile Readme Under Construction🏗🚧***
+Frontend Leaning Fullstack Dev. React (Typescript) & Rust Focused.
+
 <!--
 **Dreamy-Jy/Dreamy-Jy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
