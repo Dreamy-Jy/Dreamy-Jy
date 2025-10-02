@@ -1,6 +1,11 @@
 # I'm back at it again
 
-Frontend Leaning Fullstack Dev. React (Typescript) & Rust Focused.
+Frontend Leaning Fullstack Dev. 
+
+Prefered Tools: 
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/React-black?logo=React&logoColor=auto) 
+![Rust](https://img.shields.io/badge/Rust-D34516?logo=rust&logoColor=white)
 
 <!--
 **Dreamy-Jy/Dreamy-Jy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
