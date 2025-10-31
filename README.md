@@ -1,6 +1,8 @@
 # I'm back at it again
 
-Frontend Leaning Fullstack Dev. 
+Frontend Leaning Fullstack Dev
+
+Currently: Developing System Programming proficiency, & Contributing to Open Source
 
 Prefered Tools: 
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white) 
