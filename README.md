@@ -1,13 +1,16 @@
 # I'm back at it again
 
-Frontend Leaning Fullstack Dev
-
-Currently: Developing System Programming proficiency, & Contributing to Open Source
+## Frontend Leaning Fullstack Dev
 
 Prefered Tools: 
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/React-black?logo=React&logoColor=auto) 
 ![Rust](https://img.shields.io/badge/Rust-D34516?logo=rust&logoColor=white)
+
+**Current Focus:** Developing System Programming proficiency & Contributing to Open Source
+
+Recently built my first keyboard [here](https://github.com/Dreamy-Jy/learning_rmk)
+
 
 <!--
 Welcome to the comments
