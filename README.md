@@ -7,10 +7,11 @@ Prefered Tools:
 ![React](https://img.shields.io/badge/React-black?logo=React&logoColor=auto) 
 ![Rust](https://img.shields.io/badge/Rust-D34516?logo=rust&logoColor=white)
 
-**Current Focus:** Developing System Programming proficiency & Contributing to Open Source
+### What I'm up to
+Focused on my systems programming fundamentals and open source contributions:
 
-Recently built my first keyboard [here](https://github.com/Dreamy-Jy/learning_rmk)
-
+- Recently built my first keyboard [here](https://github.com/Dreamy-Jy/learning_rmk)
+- **Currently** Learning how containers works [here](https://github.com/Dreamy-Jy/learning_containers)
 
 <!--
 Welcome to the comments
