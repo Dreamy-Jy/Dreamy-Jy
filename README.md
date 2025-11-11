@@ -11,7 +11,7 @@ Prefered Tools:
 Focused on my systems programming fundamentals and open source contributions:
 
 - Recently built my first keyboard [here](https://github.com/Dreamy-Jy/learning_rmk)
-- **Currently** Learning how containers works [here](https://github.com/Dreamy-Jy/learning_containers)
+- **Currently** Learning how containers work [here](https://github.com/Dreamy-Jy/learning_containers)
 
 <!--
 Welcome to the comments
