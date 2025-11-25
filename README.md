@@ -12,6 +12,7 @@ Focused on my systems programming fundamentals and open source contributions:
 
 - Recently built my first keyboard [here](https://github.com/Dreamy-Jy/learning_rmk)
 - **Currently** Learning how containers work [here](https://github.com/Dreamy-Jy/learning_containers)
+- **Currently** Evaluating backend stacks [here](https://github.com/Dreamy-Jy/evaluate_stacks/) 
 
 <!--
 Welcome to the comments
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+RMK, Burn, Copper
 ---
 # FAQ
 ## Why a pseudonym?
