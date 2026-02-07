@@ -8,13 +8,27 @@ Prefered Tools:
 ![Rust](https://img.shields.io/badge/Rust-D34516?logo=rust&logoColor=white)
 
 ### What I'm up to
-Focused on my systems programming fundamentals and open source contributions:
+🤖 Focused on becoming an Embedded Systems specialist.
+
+- **Currently** Building a custom Plank Keyboard
+- **Currently** Building a workout app
+
+🦀 Orangizer For RustNYC meetup
 
 - Recently built my first keyboard [here](https://github.com/Dreamy-Jy/learning_rmk)
-- **Currently** Learning how containers work [here](https://github.com/Dreamy-Jy/learning_containers)
-- **Currently** Evaluating backend stacks [here](https://github.com/Dreamy-Jy/evaluate_stacks/) 
 
 <!--
+Open Source Contributor to:
+- RMK
+- Copper-rs
+- uutils
+- linux kernel
+
+my systems programming fundamentals and open source contributions:
+- **Previously** Learning how containers work [here](https://github.com/Dreamy-Jy/learning_containers)
+- **Previously** Evaluating backend stacks [here](https://github.com/Dreamy-Jy/evaluate_stacks/) 
+
+
 Welcome to the comments
 
 # Draft
