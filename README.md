@@ -18,11 +18,60 @@ Prefered Tools:
 - Recently built my first keyboard [here](https://github.com/Dreamy-Jy/learning_rmk)
 
 <!--
-Open Source Contributor to:
-- RMK
-- Copper-rs
-- uutils
-- linux kernel
+## TL;DR
+
+We'll derive impact from open source contributions, and explore industries via projects.
+
+Projects: (select areas I care about and go from there)
+- Physical Inputs
+
+Overview of Impact: (Select outcomes I care about and work towards them)
+
+
+Overview of Contributions:
+- XXX (+277) Total Commits
+- XX Code Reviews
+- XX Open Source Contributions across X Projects
+- XX Projects Released
+- XX PCBs Designed
+- XX CAD Models
+
+<Photo Gallary Of Projects>
+
+Overview of Organizing:
+- X Events Organized for Rust NYC
+
+Overview of Content:
+- X Streams, X Videos
+
+## Code Contributions
+Total Commits: XXX
+
+Total Code Reviews: XX
+
+Projects Overview:
+- Physical Inputs
+
+
+Languages Used:
+- Rust(XX%), C++(XX%), Python(X%), Javascipt(X%)
+
+Drivers Written:
+- Bare Metal
+- Linux
+
+Open Source Contributions:
+- RMK - Major Contributor
+- embassy-rs - Minor Contributor
+- Copper-rs - Major Contributor
+- Burn-rs - Major Contributor
+- Zephyr - Minor Contributor
+- ZMK - Minor Contributor
+- uutils - minor contributor
+- linux kernel -minor contributor 
+
+Topics Covered: (This should be a sentence at the beginning.)
+- Bare Metal Progamming, Linux Systems Programming 
 
 my systems programming fundamentals and open source contributions:
 - **Previously** Learning how containers work [here](https://github.com/Dreamy-Jy/learning_containers)
@@ -37,7 +86,8 @@ Welcome to the comments
 ## Linux
 I'm familiar with workig with the linux programming interface. Here are some artifacts to evaulate my competency and summaries on 
 - [Rust HTTP Server](https://github.com/Dreamy-Jy/rust-http-server)
-
+-->
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
