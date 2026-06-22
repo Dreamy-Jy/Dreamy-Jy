@@ -11,7 +11,7 @@ Prefered Tools:
 🤖 Focused on becoming an Embedded Systems specialist.
 
 - **Currently** Building a custom Plank Keyboard
-- **Currently** Building a workout app
+- **Next Up** Building a gaming handheld
 
 🦀 Orangizer For RustNYC meetup
 
@@ -27,6 +27,7 @@ Projects: (select areas I care about and go from there)
 
 Overview of Impact: (Select outcomes I care about and work towards them)
 
+- **Currently** Building a workout app
 
 Overview of Contributions:
 - XXX (+277) Total Commits
